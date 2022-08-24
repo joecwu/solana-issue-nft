@@ -1,0 +1,6 @@
+[submodule "candy-machine-v2-responsive-ui"]
+	path = candy-machine-v2-responsive-ui
+	url = git@github.com:joecwu/candy-machine-v2-responsive-ui.git
+[submodule "deprecated-clis"]
+	path = deprecated-clis
+	url = git@github.com:joecwu/deprecated-clis.git

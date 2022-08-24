@@ -1,0 +1,33 @@
+{
+  "program": {
+    "candyMachine": "4pMtZrEmTKkmvQbj5hhfEv98GyHewFQHFxoNzK5WsN63",
+    "candyMachineCreator": "EnWApBJW7pwGCYzmhCcDB2TAczicqSXrFZCJ68hkmtyG",
+    "collectionMint": "7nTcdJ8Cnvqh2k8r4MLvf4nDj4JajPgQE2QtLT3SjyL4"
+  },
+  "items": {
+    "-1": {
+      "name": "SolFren Logo Collection",
+      "image_hash": "8a16d12942b7c975aa2da164dbd66654d81b20c14183474310d3a63d7c8fd953",
+      "image_link": "https://arweave.net/Xe5ggr42A4ItaRQExxzXjHRUTXvou8DgbmSYR9k-zMk",
+      "metadata_hash": "c0905a0b4374993650628d09f21cced65d7a36eebc480aeb5ec0333a3c74ed20",
+      "metadata_link": "https://arweave.net/WAMcV_-MW8FsIR-EEKjDJ1zAvjVTESiKZiGGy0ICntU",
+      "onChain": true
+    },
+    "0": {
+      "name": "SolFren Logo #0001",
+      "image_hash": "cf1104879620714224500210bfcb21201290c2f1064ee29e06bd3f609ff05383",
+      "image_link": "https://arweave.net/EX5VduzFPKYDrgh0oY0TingSM97Z94tknEVAz9dwIFU",
+      "metadata_hash": "34df60d70049a8bec3087dfd62f4582033fe114e25ca81bba8b969fa7942e92a",
+      "metadata_link": "https://arweave.net/laL3YA2NmlSaEDWXmQcLIad-Pdf-L8LXnTtH8pZZeOY",
+      "onChain": true
+    },
+    "1": {
+      "name": "SolFren Logo #0002",
+      "image_hash": "d836359523560ecd99f16a94ba2e046d6197628598ad165dd5a60b333617b622",
+      "image_link": "https://arweave.net/n3BAk0jL9AHThgoCjl5X1kTomWr4ArDmN63lCrYzmDE",
+      "metadata_hash": "83db868b8292273a78057e37225869d5129e731b8c9188048a308a5ec0695479",
+      "metadata_link": "https://arweave.net/ROMsQiVgXrteNHCVlVcX0DwaEZ_fe6x35nh_BYsrflQ",
+      "onChain": true
+    }
+  }
+}

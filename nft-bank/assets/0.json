@@ -1,0 +1,21 @@
+{
+  "name": "SolFren Logo #0001",
+  "symbol": "SFLogo",
+  "description": "SolFren Log #0001.",
+  "seller_fee_basis_points": 500,
+  "image": "0.png",
+  "attributes": [
+    { "trait_type": "color", "value": "green" },
+    { "trait_type": "shape", "value": "normal" },
+    { "trait_type": "eye", "value": "transparent" },
+    { "trait_type": "fin", "value": "wave" }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "CATRyjLhM3tJycjrwxzmawqrsnVthtQvFApQ2CxbzNic", "share": 80 },
+      { "address": "CATReaErUCqwjVZKiQre2hHYJcC1G2ezbBUG7i5yHi2s", "share": 20 }
+    ],
+    "files": [{ "uri": "0.png", "type": "image/png" }]
+  },
+  "collection": { "name": "SolFren Joe Test", "family": "SolFren" }
+}
