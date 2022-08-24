@@ -310,7 +310,7 @@ Latency (ms) 5qhM25EoPyVqvfW3U81Timw4QGybJrTmiL5kZrgE7F33EZpDvRPRj5CrvARR5kgC7Qq
 Accepted 1 GZZPxeFjCpQBzBodV79dEfY5Ar42738emJrPMsoUZrVy sale from wallet C9mzyfKqwPtjqK3CrNsij7syyQvr6XKquEHrnM22wa9Z to Egu83sufo3ZdvwAo8MUN2YPX2jRuJ9aUzmBoRhLMPUvu for 0.5 from your account with Auction House 9z666zc3Pm7h5XzK2wFxLDFUse7kxF53ms932US5RemR
 ```
 
-
+Check transaction on Solscan: [Link](https://solscan.io/tx/5qhM25EoPyVqvfW3U81Timw4QGybJrTmiL5kZrgE7F33EZpDvRPRj5CrvARR5kgC7QqJVRdjDDJexrnLCxXZRBuL?cluster=devnet)
 
 # FAQ
 
